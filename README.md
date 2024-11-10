@@ -15,3 +15,5 @@ Now run:
 ```
 curl -X GET http://127.0.0.1:8080/receipts/{UUID}/points
 ```
+(You can also use the browser to make this GET request)
+Your response should be the number of points from the receipt.
